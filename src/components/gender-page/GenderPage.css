@@ -1,0 +1,26 @@
+/*.container {*/
+/*  flex-direction: column*/
+/*}*/
+
+/*#gender-page{*/
+/*  padding-top: 100px;*/
+/*  padding-bottom: 30px;*/
+/*  flex-direction: column;*/
+/*}*/
+
+/*#gender-page .prev-pg-link{*/
+/*  position: absolute;*/
+/*  display: flex;*/
+/*  background: url("../../../public/images/back-link.svg");*/
+/*  content: "";*/
+/*  width: 14px;*/
+/*  height: 24px;*/
+/*  top: 31px;*/
+/*  left: 5px;*/
+/*}*/
+
+/*h2 {*/
+/*  font-size: 24px;*/
+/*  font-weight: 700;*/
+/*  color: var(--main-element-color)*/
+/*}*/
