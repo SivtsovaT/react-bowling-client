@@ -5,7 +5,8 @@
 /*}*/
 
 .content {
-    display: flex;
+    /*временно убрала дисплей чтобы было компактно*/
+    /*display: flex;*/
     flex-direction: column;
     align-items: center;
     margin-top: 148px;
